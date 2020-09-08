@@ -1,7 +1,7 @@
 # WanderHop
-Repository For Spark AR Hackathon.
+Repository For Facebook Spark AR Hackathon.
 
-Augment Reality World Effect, optimised for instagram reels.
+an Augment Reality World Effect, optimised for instagram reels.
 
 ## Inspiration
 My inspiration for this project is three fold:
